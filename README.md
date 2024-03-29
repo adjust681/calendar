@@ -1,1 +1,1 @@
-# calendar-teacher
+# calendar
